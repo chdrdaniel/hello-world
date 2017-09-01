@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi Humnans!
+
+Today is another day for me to move on coniounse learning. 
